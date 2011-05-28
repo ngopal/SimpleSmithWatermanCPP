@@ -1,0 +1,8 @@
+to compile, use the following command:
+
+g++ SmithWaterman.cpp -o SmithWaterman
+
+after this completes successfully, type this to run:
+./SmithWaterman
+
+
